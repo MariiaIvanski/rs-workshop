@@ -1,3 +1,3 @@
 # TEST
 
-This is the 1st test.
+This is the 1st Test.
